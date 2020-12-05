@@ -7,11 +7,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.applet.Applet;
+
 //todo: Simplify the creation of Neurons. (It would seem there is unecissary memory usage).
 
 public class Main extends Application {
-    private static final float WIDTH = 1200;
-    private static final float HEIGHT = 700;
 
     @Override
     public void start(Stage primaryStage) throws Exception{
