@@ -1,9 +1,5 @@
-# Incomplete-PP-s
-This is for my uncompleted (and therefore not valuable) Personal Projects.
-
-The only project contained here at the moment is "Neural Circuit Simulator"
-
-Some good material to wet your tastebuds for this project:
+# Description and reading material
+Some good material to wet your tastebuds for this topic:
   https://www.youtube.com/watch?v=obAHnwp9tOM
   https://www.youtube.com/watch?v=QJ8AW5pi2T4
 
@@ -24,15 +20,15 @@ various neural circuits in the nervous system do, and how they do it. How a circ
 required to make this process easier.
 
   Neural Circuit simulator attempts to simplify/discretize, and model the interactions of neurons in a neural circuit such that the essential elements of computation 
-are preserved.  On top of this, a genetic algorithm can be used to sift through the near infinite variety of neural circuits to find one (or several) "breeds"
+are preserved.  On top of this, a genetic algorithm can be used to sift through the near infinite variety of neural circuits to find one (or several) "breeds".
 that takes your set of inputs and gives the correct output for every instance.
 
-ToDo:
+# ToDo:
 -IncidenceList details
-     -All neurons must be connected to each other. ie no stray neurons.
+-All neurons must be connected to each other. ie no stray neurons.
 -Step() needs fixing, neuron should be off if it is not activated by other neurons by the next Step.
 -Make "example circuits" tab to show off real life neural circuits the program has sucessfully made.
--!Make readOutput(), if an output neuron is activated record the "total output"(whatever this means).
+-(!!!)Make readOutput(), if an output neuron is activated record the "total output"(whatever this means).
 -Color axons based on weather they are exitatory or inhibitory.
 -GUI has graphs and tools to help you visualize what's going on.
 
