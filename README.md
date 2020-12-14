@@ -1,6 +1,6 @@
 # What I learned
 - Model View Controller design pattern.
-* Implemented functinality to the UI.
+* Implemented functionality to the UI.
 - 3D graphic manipulation.
 - Genetic algorithm fundamentals.
 - Research a real world topic, in this case neurology, and model it.
