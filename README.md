@@ -1,3 +1,12 @@
+# What I learned
+- Model View Controller design pattern.
+* Implemented functinality to the UI.
+- 3D graphic manipulation.
+- Genetic algorithm fundamentals.
+- Research a real world topic, in this case neurology, and model it.
+- Created handful of own algorithms to solve specific problems, and weighed their memory/speed tradeoffs.
+- Used front end software such as SceneBuilder to quickly create a nice looking UI.
+
 # Description and reading material
 Some good material to wet your tastebuds for this topic:
   https://www.youtube.com/watch?v=obAHnwp9tOM
