@@ -5,16 +5,16 @@
 - Genetic algorithm fundamentals.
 - Research a real world topic, in this case neurology, and model it.
 - Created handful of own algorithms to solve specific problems, and weighed their memory/speed tradeoffs.
-- Used front end software such as SceneBuilder to quickly create a nice looking UI.
+- Used front end software such as SceneBuilder to quickly and effectively create UI.
 
 # Description and reading material
 Some good material to wet your tastebuds for this topic:
-  https://www.youtube.com/watch?v=obAHnwp9tOM
-  https://www.youtube.com/watch?v=QJ8AW5pi2T4
+  -https://www.youtube.com/watch?v=obAHnwp9tOM
+  -https://www.youtube.com/watch?v=QJ8AW5pi2T4
 
 More advanced material:
-  https://www.coursera.org/learn/computational-neuroscience
-  Paul Miller, An Introductory Course in Computational Neuroscience
+  -https://www.coursera.org/learn/computational-neuroscience
+  -Paul Miller, An Introductory Course in Computational Neuroscience
 
   Research in Computational Neuroscience is done from many different angles, some focus on the "big picture" computation involving different parts of the brain. Others focus on
 single neurons themselves, and try to delve into every single detail, no matter how trivial. Of course even a single neuron is an extremely difficult object to model with high 
