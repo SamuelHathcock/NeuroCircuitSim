@@ -4,6 +4,7 @@
 - 3D graphic manipulation.
 - Genetic algorithm fundamentals.
 - Research a real world topic, in this case neurology, and model it.
+- Find area that needs innovation in a field, and (attempt) to fill it.
 - Created handful of own algorithms to solve specific problems, and weighed their memory/speed tradeoffs.
 - Used front end software such as SceneBuilder to quickly and effectively create UI.
 
