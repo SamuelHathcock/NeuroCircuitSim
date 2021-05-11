@@ -34,18 +34,19 @@ are preserved.  On top of this, a genetic algorithm can be used to sift through 
 that takes your set of inputs and gives the correct output for every instance.
 
 # ToDo:
--IncidenceList details
--All neurons must be connected to each other. ie no stray neurons.
--Step() needs fixing, neuron should be off if it is not activated by other neurons by the next Step.
--Make "example circuits" tab to show off real life neural circuits the program has sucessfully made.
--(!!!)Make readOutput(), if an output neuron is activated record the "total output"(whatever this means).
--Color axons based on weather they are exitatory or inhibitory.
--GUI has graphs and tools to help you visualize what's going on.
+  - Refactor Neuron and Axon object array as a dictionary.
+  - Moar tests.
+  - IncidenceList details
+  - All neurons must be connected to each other. ie no stray neurons or island clusters.
+  - Step() needs fixing, neuron should be off if it is not activated by other neurons by the next Step. (Test)
+  - (!!!)Make readOutput(), if an output neuron is activated record the "total output".
+  - Color axons based on weather they are exitatory or inhibitory.
 
 Future version details to work out:
--Determine weather cyclical NCs are legal in the models, or weather it should be an added option.
--Currently the time intervals are dicrete and not continuous, meaning only digital(and not analog) computation can be modeled.
-
+  - Determine weather cyclical NCs are legal in the models, or weather it should be an added option.
+  - Currently the time intervals are dicrete and not continuous, meaning only digital computation can be modeled.
+  - (UI) Make "example circuits" tab to show off real life neural circuits the program has sucessfully made.
+  - (UI) include tools to help you visualize what's going on (This is where Pythons scientific libraries would be amazing, could transition project to Python in the future for this reason alone).
   *A simple test case for the Genetic Algorithm would be to see if it can produce the neual circuit equivalent of a "half adder", 
 the essential component to add 2 bits in a computer.
 
