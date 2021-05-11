@@ -18,7 +18,7 @@ More advanced material:
   - Paul Miller, An Introductory Course in Computational Neuroscience
 
    Research in Computational Neuroscience is done from many different angles, some focus on the "big picture" computation involving different large regions of the brain. Others focus on
-single neurons themselves, and try to delve into every single detail, no matter how trivial. Of course even a single neuron is an extremely difficult object to model with high 
+single neurons themselves, and try to delve into every single detail. Of course even a single neuron is an extremely difficult object to model with high 
 accuracy, it being a chemical object it is prone to being stochastic, and so it is modeled as such, requiring complex programs. Though these programs are very high resolution, 
 it is absolutely horrible at modeling neurons at larger scales because it needs so much processing power, and this very complexity you put in the system clouds the 
 core computational truths that actually matters. For example, fat tissues and veins obviously influence the formation and behaviour of neurons, and yet are irrelevant to the 
