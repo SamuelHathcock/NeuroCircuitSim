@@ -34,6 +34,7 @@ are preserved.  On top of this, a genetic algorithm can be used to sift through 
 that takes your set of inputs and gives the correct output for every instance.
 
 # ToDo:
+  - Make Linux compatible
   - Refactor Neuron and Axon object array as a dictionary.
   - Moar tests.
   - IncidenceList details
